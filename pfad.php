@@ -1,4 +1,4 @@
 <?php
-$p = getcwd();
-echo $p;
+$pfad = getcwd();
+echo $pfad;
 ?>
