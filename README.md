@@ -8,6 +8,8 @@ Daraufhin erhälst du deinen absoluten Pfad.
 > Quelle: imgur.com
 
 
+### Wozu braucht man das?
+
 /* Der Pfad kann beispielsweise in der _wp-config.php_ benutzt werden, um WordPress dazu zu bringen statt den Ordner _wp-content_ den Ordner _dateien_ zu verwenden. (Achte dabei darauf, dass du den Ordner _wp-content_ händisch umbenennen musst.)
 
 `define('WP_CONTENT_DIR', '/absoluter-pfad/dateien');`
