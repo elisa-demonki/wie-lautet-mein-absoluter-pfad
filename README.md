@@ -14,5 +14,5 @@ Der Pfad wird gebraucht, wenn statt der Ordner _wp-content_ der Ordner _dateien_
 
 `define('WP_CONTENT_DIR', '/absoluter-pfad/dateien');`
 
-`define('WP_CONTENT_URL', 'http://www.meine-website.de/dateien');` 
+`define('WP_CONTENT_URL', 'http://WEBSITE.EXAMPLE/dateien');` 
 
